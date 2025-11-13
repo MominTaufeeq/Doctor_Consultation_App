@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dr. Aisha Khan",
+    "specialization": "Cardiologist",
+    "rating": 4.8
+  },
+  {
+    "name": "Dr. Rohan Mehta",
+    "specialization": "Dermatologist",
+    "rating": 4.5
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialization": "Pediatrician",
+    "rating": 4.7
+  },
+  {
+    "name": "Dr. Aditya Deshmukh",
+    "specialization": "Orthopedic Surgeon",
+    "rating": 4.6
+  },
+  {
+    "name": "Dr. Priya Iyer",
+    "specialization": "Gynecologist",
+    "rating": 4.9
+  },
+  {
+    "name": "Dr. Sandeep Verma",
+    "specialization": "Neurologist",
+    "rating": 4.4
+  },
+  {
+    "name": "Dr. Kavita Nair",
+    "specialization": "Dentist",
+    "rating": 4.7
+  },
+  {
+    "name": "Dr. Rahul Patil",
+    "specialization": "General Physician",
+    "rating": 4.3
+  },
+  {
+    "name": "Dr. Sneha Gupta",
+    "specialization": "Psychiatrist",
+    "rating": 4.8
+  },
+  {
+    "name": "Dr. Imran Sheikh",
+    "specialization": "ENT Specialist",
+    "rating": 4.6
+  }
+]
